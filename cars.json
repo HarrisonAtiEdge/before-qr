@@ -3,7 +3,7 @@
     "id": 1,
     "category": "category1",
     "image": "cars\\category1/360_F_575353071_CYrY4S8QgLVRZWToiHrWFcbq7wFcpcsr.png",
-    "model_no": "TAbM/A/1",
+    "model_no": "TAbMA1",
     "model_path": "TAbMA1",
     "rating_uniqueness": null,
     "rating_art_concept": null,
@@ -32,7 +32,7 @@
     "id": 3,
     "category": "category1",
     "image": "cars\\category1/images.png",
-    "model_no": "TAbM/A/3",
+    "model_no": "TAbMA3",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -41,7 +41,7 @@
     "id": 4,
     "category": "category1",
     "image": "cars\\category1/images__1_.png",
-    "model_no": "TAbM/B/1",
+    "model_no": "TAbMB1",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -50,7 +50,7 @@
     "id": 5,
     "category": "category1",
     "image": "cars\\category1/images__5_.png",
-    "model_no": "TAbM/B/2",
+    "model_no": "TAbMB2",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -59,7 +59,7 @@
     "id": 6,
     "category": "category2",
     "image": "cars\\category2/10_2023_04_04_16_30_40_1200x.png",
-    "model_no": "TAbM/B/3",
+    "model_no": "TAbMB3",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -68,7 +68,7 @@
     "id": 7,
     "category": "category2",
     "image": "cars\\category2/41m23r3rS5S__SL500_.png",
-    "model_no": "TAbM/C/1",
+    "model_no": "TAbMC1",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -77,7 +77,7 @@
     "id": 8,
     "category": "category2",
     "image": "cars\\category2/images__2_.png",
-    "model_no": "TAbM/C/2",
+    "model_no": "TAbMC2",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -86,7 +86,7 @@
     "id": 9,
     "category": "category2",
     "image": "cars\\category2/images__3_.png",
-    "model_no": "TAbM/C/3",
+    "model_no": "TAbMC3",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -95,7 +95,7 @@
     "id": 10,
     "category": "category2",
     "image": "cars\\category2/images__4_.png",
-    "model_no": "TCHM/A/1",
+    "model_no": "TCHMA1",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -104,7 +104,7 @@
     "id": 11,
     "category": "category3",
     "image": "cars\\category3/Lamborghini_Licensed_Ride_on_Car_Kids_Electric_Car_Toy_Car.png",
-    "model_no": "TCHM/A/2",
+    "model_no": "TCHMA2",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -113,7 +113,7 @@
     "id": 12,
     "category": "category3",
     "image": "cars\\category3/metal_cars_toy_cars_pullback_toy_car_for_kids_sound_and_light_original_imagfdektcrbvqag.png",
-    "model_no": "TCHM/A/3",
+    "model_no": "TCHMA3",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -122,7 +122,7 @@
     "id": 13,
     "category": "category3",
     "image": "cars\\category3/pink_tobbi_kid_cars_th17m0813_64_600.png",
-    "model_no": "TCHM/A/4",
+    "model_no": "TCHMA4",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -131,7 +131,7 @@
     "id": 14,
     "category": "category3",
     "image": "cars\\category3/r_25_a65c81e6_f139_49f1_8deb_3e08a1bf8efd.png",
-    "model_no": "TCHM/B/1",
+    "model_no": "TCHMB1",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
@@ -140,7 +140,7 @@
     "id": 15,
     "category": "category3",
     "image": "cars\\category3/rigo_kids_ride_on_police_car.png",
-    "model_no": "TCHM/B/2",
+    "model_no": "TCHMB2",
     "rating_uniqueness": null,
     "rating_art_concept": null,
     "rating_message": null
