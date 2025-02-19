@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "testfodercreation",
+  "version": "1.0.0",
+  "main": "generateCars.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
