@@ -5,6 +5,19 @@ const bodyParser = require("body-parser");
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
+
+app.get("/", (req, res) => {
+    res.send(`
+        <html>
+        <head><title>Car Voting System</title></head>
+        <body style="text-align:center; font-family:sans-serif;">
+            <h1>Welcome to Car Voting System</h1>
+            <p>Scan a QR code to get car details.</p>
+        </body>
+        </html>
+    `);
+});
+
 // Load car data
 const cars = JSON.parse(fs.readFileSync("cars.json", "utf-8"));
 
